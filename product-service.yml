@@ -1,6 +1,6 @@
 spring:
    datasource:
-      url: jdbc:mysql://localhost:4000/productdb_Product
+      url: jdbc:mysql://localhost:4000/productdb
       driver-class-name: com.mysql.cj.jdbc.Driver
       username: root
       password: Temp1234
